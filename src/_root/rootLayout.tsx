@@ -1,7 +1,7 @@
-const rootLayout = () => {
+const RootLayout = () => {
   return (
     <div>rootLayout</div>
   )
 }
 
-export default rootLayout
+export default RootLayout

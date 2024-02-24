@@ -1,7 +1,7 @@
-const aruthLayout = () => {
+const AruthLayout = () => {
   return (
     <div>aruthLayout</div>
   )
 }
 
-export default aruthLayout
+export default AruthLayout
